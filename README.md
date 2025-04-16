@@ -38,7 +38,7 @@ cd Sherlock-13/
 ```bash
 make
 ```
-- Etape 4 : Executer le serveur (tous les numéros de ports entre 1025 et 65535 sont disponibles)
+- Etape 4 : Executer le serveur (tous les numéros de ports entre 1024 et 65535 sont disponibles)
 ```bash
 ./server 26000
 ```
