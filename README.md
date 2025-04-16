@@ -27,7 +27,6 @@ sudo apt install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev
 - Etape 1 : Cloner le repository 
 ```bash
 git clone https://github.com/AyoubLADJICI/Sherlock-13.git
-cd Sherlock-13/
 ```
 
 - Etape 2 : Se rendre sur le dossier
